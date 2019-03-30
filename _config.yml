@@ -33,11 +33,10 @@ instructor_url: https://ucsb-int15.github.io/instructor
 cal_dates: >
   [
   {"label":"First day of classes", "date":"2019-04-01" },
-  {"label":"Univ Holiday", "date":"2019-01-21" },
-  {"label":"Drop deadline (no W grade)","date":"2019-02-04" },
-  {"label":"Univ Holiday", "date":"2019-02-18" },
-  {"label":"s19 Instruction Ends", "date":"2019-03-15" },  
-  {"label":"s19 Quarter Ends", "date":"2019-03-22" }          
+  {"label":"Drop deadline (no W grade)","date":"2019-04-26" },
+  {"label":"Memorial Day", "date":"2019-05-27" },
+  {"label":"S19 Instruction Ends", "date":"2019-06-07" },  
+  {"label":"S19 Quarter Ends", "date":"2019-06-14" }          
   ]
 
 future: false

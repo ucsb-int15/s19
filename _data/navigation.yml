@@ -22,6 +22,10 @@ offerings:
    title: S19
    url: /	
    baseurl: /s19
+   items:
+      - title: S19
+        url: /
+        baseurl: /s19
 
 offering_links:
 #  - title: Calendar
@@ -30,3 +34,17 @@ offering_links:
   - title: Syllabus
     url: /info/syllabus/
     description: "University and course policies"    
+  - title: Calendar
+    url: /info/calendar/
+    description: "Assignment Calendar"
+  - title: Links
+    dropdown:	 
+       - title: Gauchospace
+         url: https://gauchospace.ucsb.edu
+         description: "Overall Grade Information"
+       - title: GradeScope
+         url: https://gradescope.com
+         description: "HW and Lab Grades"
+       - title: Piazza
+         url: https://piazza.com
+         description: "Q&A Forum"
