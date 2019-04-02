@@ -23,15 +23,15 @@ The course teaches critical concepts and skills in computer programming and stat
   * Friday, Phelps 3525
   * Friday, Phelps 3525
   * Friday, Phelps 3525
-* Exam 1: Nov 1, in class; 	Exam 2: Dec 4, in class
-* Final project due Dec 11 at 5pm.
+* Exam 1: Nov 1, in class; 
+* Final project due Wednesday June 12 at 5pm.
 
 ## Prerequisites
 
 ## Textbook
-Our primary text is an online book called Computational and Inferential Thinking: The Foundations of Data Science.
+Our primary text is an online book [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-The computing platform (Jupyter Notebooks) for the course is hosted at https://data1.lsit.ucsb.edu/.
+The computing platform (Jupyter Notebooks) for the course is hosted at https://int15.lsit.ucsb.edu/.
 
 ## Support
 You are not alone in this course; the mentors (staff and the instructors) are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. 
@@ -44,12 +44,11 @@ We will also hold office hours and open-lab hours for in-person discussions. Sma
 
 # ASSESSMENTS AND GRADES
 Your mastery of class material will be assessed in the following ways, and final grades will be computed as follows:
-*	5% Class Participation
+
 *	30% Homework Assignments
-*	15% Labs
-*	20% Exam 1
-*	20% Exam 2
-*	10% Final Project
+*	20% Labs and Participation
+*	20% Midterm Exam
+*	30% Final Project
 It is certainly possible for all students to receive high grades in this course if all of you show mastery of the material on exams and complete all assignments.
 
 ## Participation
@@ -68,15 +67,17 @@ Make a serious attempt at the assignment yourself, and then discuss your doubts 
 ## Labs
 Weekly labs are a required part of the course and should be submitted during your lab session. To receive credit, you must attend lab, work on the lab assignment until you're finished or the lab period is over, and get checked off by a TA. Labs will be released on Wednesday night. If you cannot attend lab physically, you may complete a lab assignment remotely, but you must complete it by Friday at 5pm to receive credit. Note that if you attend lab, you can still get credit even if you don't finish all of the lab problems. However, if you choose to work remotely, you must finish the entire lab to receive credit. Each person must submit each lab independently, but you are welcome to collaborate with other students in your lab room.
 
-## Exams
-Instead of a midterm and a final exam, we will have two exams during the quarter with the final project at the end. Unless you have accommodations as determined by the university and approved by the instructor, you must take the exams at the dates and times provided here. Please check your course schedule and make sure that you have no conflicts with these exams. If you have a conflict with either exam, please post a private note on Piazza visible to Instructors **before the end of the third week of classes**.
+## Midterm Exam, **May 3, 2019**
+Unless you have accommodations as determined by the university and approved by the instructor, you must take the exams at the dates and times provided here. Please check your course schedule and make sure that you have no conflicts with these exams. If you have a conflict with either exam, please post a private note on Piazza visible to Instructors **before the end of the third week of classes**.
+
+## Final Project
+
+More information will be provided later in the class. Due June 12, 2019.  
 
 ## Late Submission
 Late submissions of labs will not be accepted under any circumstances. The same goes for homework, unless you have relevant DSP accommodations and you contact us before the assignment is due.
 
 In lieu of offering exceptions or extensions, your lowest two homework scores and your lowest lab score will be dropped in the calculation of your overall grade.
-
-Projects will be accepted up to 2 days (48 hours) late; a project submitted less than 24 hours after the deadline will receive 2/3 credit, a project submitted between 24 and 48 hours after the deadline will receive 1/3 credit, and a project submitted 48 hours or more after the deadline will receive no credit.
 
 ## Learning Cooperatively
 With the obvious exception of exams, we encourage you to discuss all of the course activities with your friends and classmates as you are working on them. You will definitely learn more in this class if you work with others than if you do not. Ask questions, answer questions, and share ideas liberally.
@@ -90,5 +91,5 @@ Penalties for cheating are severe — they range from a zero grade for the assig
 Rather than copying someone else's work, ask for help. You are not alone in this course! We are here to help you succeed. If you invest the time to learn the material and complete the projects, you won't need to copy any answers.
 
 ## A Parting Thought
-This page shouldn't end with a list of penalties for cheating or lateness, because penalties and grades aren't the purpose of the course. We actually just want you to learn and have a great time in the process. Please keep that goal in mind throughout the semester. Welcome to Data Science Foundations!
+This page shouldn't end with a list of penalties for cheating or lateness, because penalties and grades aren't the purpose of the course. We actually just want you to learn and have a great time in the process. Please keep that goal in mind throughout the semester. Welcome to Data Science Tools and Techniques!
 
