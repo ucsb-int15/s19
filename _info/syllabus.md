@@ -23,7 +23,7 @@ The course teaches critical concepts and skills in computer programming and stat
   * Friday, 1PM, Phelps 3525
   * Friday, 2PM, Phelps 3525
   * Friday, 3PM, Phelps 3525
-* Midterm: May 3, in class; 
+* Midterm: Thursday, May 9, in class; 
 * Final project due Wednesday June 12 at 5pm.
 
 ## Prerequisites
@@ -68,7 +68,7 @@ Make a serious attempt at the assignment yourself, and then discuss your doubts 
 ## Labs
 Weekly labs are a required part of the course and should be submitted during your lab session. To receive credit, you must attend lab, work on the lab assignment until you're finished or the lab period is over, and get checked off by a TA. Labs will be released on Wednesday night. If you cannot attend lab physically, you may complete a lab assignment remotely, but you must complete it by Friday at 5pm to receive credit. Note that if you attend lab, you can still get credit even if you don't finish all of the lab problems. However, if you choose to work remotely, you must finish the entire lab to receive credit. Each person must submit each lab independently, but you are welcome to collaborate with other students in your lab room.
 
-## Midterm Exam, **May 3, 2019**
+## Midterm Exam, **Thursday, May 9, 2019**
 Unless you have accommodations as determined by the university and approved by the instructor, you must take the exam at the date and time provided here. Please check your course schedule and make sure that you have no conflicts with the exam. If you have a conflict, please post a private note on Piazza visible to Instructors **before the end of the third week of classes**.
 
 ## Final Project
