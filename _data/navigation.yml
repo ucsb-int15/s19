@@ -37,6 +37,9 @@ offering_links:
   - title: Calendar
     url: /info/calendar/
     description: "Assignment Calendar"
+  - title: Lectures
+    url: /lec_list/
+    description: "Lecture-related information"
   - title: Links
     dropdown:	 
        - title: Gauchospace
