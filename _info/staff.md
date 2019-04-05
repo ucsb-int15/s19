@@ -34,6 +34,19 @@ ready: true
 <table style="width:90%">
 <tr>
   <td>
+  <img src="/s19/info/mentorPhotos/FirstName-LastName.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
+  <h3>(TA/Tutor)</h3>
+    Preferred Pronouns: He, Him, His<br/>
+    Major: <br/>
+    Previous experience as a TA/tutor: <br/>
+  <i> "" </i>
+  </td>
+</tr>
+</table>
+
+<table style="width:90%">
+<tr>
+  <td>
   <img src="/s19/info/mentorPhotos/eduardo-escoto.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
   <h3>Eduardo Escoto (Tutor)</h3>
     Preferred Pronouns: He, Him, His<br/>
