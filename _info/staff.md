@@ -34,12 +34,12 @@ ready: true
 <table style="width:90%">
 <tr>
   <td>
-  <img src="/s19/info/mentorPhotos/FirstName-LastName.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
-  <h3>(TA/Tutor)</h3>
+  <img src="/s19/info/mentorPhotos/Daniel-Zeng.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
+  <h3>Daniel Zeng</h3>
     Preferred Pronouns: He, Him, His<br/>
-    Major: <br/>
+    Major: Statistical Science BS <br/>
     Previous experience as a TA/tutor: <br/>
-  <i> "" </i>
+  <i> "This is my first time officially being a tutor. As a student, I've always been the person to go to for programming assignments, and I look forward to guiding you guys and learning with you all!" </i>
   </td>
 </tr>
 </table>
