@@ -57,6 +57,20 @@ ready: true
 </tr>
 </table>
 
+<table style="width:90%">
+<tr>
+  <td>
+  <img src="/s19/info/mentorPhotos/jerry-ling.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
+  <h3>Jerry Ling(Tutor)</h3>
+    Preferred Pronouns: He, Him, His<br/>
+    Major: Physics<br/>
+    Previous experience as a TA/Tutor: First time tutoring! But let's just say I'm active between Github issues and on Slack.<br/>
+  <i>"I'm a 3rd year undergrad doing research in high energy physics where we deal with ~TB of data in the analysis. Even though 
+  it's my first time tutoring a class, I hope my experience in science collaboration and debugging various Python / *NIX 
+  problems will be helpful in INT 15 labs! Also ask me anything about Vim :D"</i>
+  </td>
+</tr>
+</table>
 # INT 15 Office / Open Lab Hours
 
 ## Prof. Frank’s Office Hours
