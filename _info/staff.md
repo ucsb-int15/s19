@@ -61,9 +61,9 @@ ready: true
 <tr>
   <td>
   <img src="/s19/info/mentorPhotos/jerry-ling.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
-  <h3>Jerry Ling(Tutor)</h3>
+  <h3>Jerry Ling (Tutor)</h3>
     Preferred Pronouns: He, Him, His<br/>
-    Major: Physics<br/>
+    Major: <a href="https://i.redd.it/csqbj03xsaq21.jpg"> Physics </a> <br/>
     Previous experience as a TA/Tutor: First time tutoring! But let's just say I'm active between Github issues and on Slack.<br/>
   <i>"I'm a 3rd year undergrad doing research in high energy physics where we deal with ~TB of data in the analysis. Even though 
   it's my first time tutoring a class, I hope my experience in science collaboration and debugging various Python / *NIX 
