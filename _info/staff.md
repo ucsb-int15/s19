@@ -55,7 +55,29 @@ ready: true
   <i> "I'm a 4th year undergrad statistics major and I've always had good results in my programming classes. My secret has been excessive amounts of Googling and digging through the depths of Stack Exchange, and I hope this translates to me being an effective tutor! Outside of my office hours you'll most definitely catch me at the gym." </i>
   </td>
 </tr>
+  <img src="/s19/info/mentorPhotos/eduardo-escoto.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
+  <h3>Eduardo Escoto (Tutor)</h3>
+    Preferred Pronouns: He, Him, His<br/>
+    Major: Mathematics and Statistics<br/>
+    Previous experience as a TA/Tutor: "I helped teach an Introductory Web Development workshop back home, however this is my first official TA/Tutor Experience :D"<br/>
+  <i>"I am a 4th year undergrad and this is my first time tutoring for INT 15, however I am very excited to be a part of this class, and I hope to be of help in any way I can! Also, I like to eat my eggs with too much hot sauce, my favorite band is The Marías, and I probably spent way more time playing Pokèmon as a kid than I should have."</i>
+  </td>
+</tr>
+<tr>
+  <td>
+  <img src="/s19/info/mentorPhotos/jerry-ling.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
+  <h3>Jerry Ling (Tutor)</h3>
+    Preferred Pronouns: He, Him, His<br/>
+    Major: <a href="https://i.redd.it/csqbj03xsaq21.jpg"> Physics </a> <br/>
+    Previous experience as a TA/Tutor: First time tutoring! But let's just say I'm active between Github issues and on Slack.<br/>
+  <i>"I'm a 3rd year undergrad doing research in high energy physics where we deal with ~TB of data in the analysis. Even though 
+  it's my first time tutoring a class, I hope my experience in science collaboration and debugging various Python / *NIX 
+  problems will be helpful in INT 15 labs! Also ask me anything about Vim :D"</i>
+  </td>
+</tr>
 </table>
+
+
 
 # INT 15 Office / Open Lab Hours
 
@@ -74,5 +96,4 @@ ready: true
 <style>
 iframe { width: 100%; height: 1100px; overflow: scroll; }  
 </style>
-
 <iframe src=""></iframe>
