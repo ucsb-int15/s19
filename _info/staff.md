@@ -47,6 +47,14 @@ ready: true
 <table style="width:90%">
 <tr>
   <td>
+  <img src="/s19/info/mentorPhotos/Daniel-Zeng.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
+  <h3>Daniel Zeng (Tutor)</h3>
+    Preferred Pronouns: He, Him, His<br/>
+    Major: Statistical Science BS <br/>
+    Previous experience as a TA/tutor: This is my first time officially being a tutor. As a student, I've always been the person to go to for help on programming assignments, and I look forward to guiding you guys and learning with you all!<br/>
+  <i> "I'm a 4th year undergrad statistics major and I've always had good results in my programming classes. My secret has been excessive amounts of Googling and digging through the depths of Stack Exchange, and I hope this translates to me being an effective tutor! Outside of my office hours you'll most definitely catch me at the gym." </i>
+  </td>
+</tr>
   <img src="/s19/info/mentorPhotos/eduardo-escoto.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
   <h3>Eduardo Escoto (Tutor)</h3>
     Preferred Pronouns: He, Him, His<br/>
@@ -55,9 +63,6 @@ ready: true
   <i>"I am a 4th year undergrad and this is my first time tutoring for INT 15, however I am very excited to be a part of this class, and I hope to be of help in any way I can! Also, I like to eat my eggs with too much hot sauce, my favorite band is The Marías, and I probably spent way more time playing Pokèmon as a kid than I should have."</i>
   </td>
 </tr>
-</table>
-
-<table style="width:90%">
 <tr>
   <td>
   <img src="/s19/info/mentorPhotos/jerry-ling.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
@@ -71,6 +76,9 @@ ready: true
   </td>
 </tr>
 </table>
+
+
+
 # INT 15 Office / Open Lab Hours
 
 ## Prof. Frank’s Office Hours
