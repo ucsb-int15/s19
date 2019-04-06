@@ -9,7 +9,7 @@ ready: true
 <table style="width:80%">
 <tr>
   <td>
-  <img src="/s19/info/mentorPhotos/Alex-Franks.png"  width="250px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
+  <img src="/s19/info/mentorPhotos/franks.png"  width="250px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
   <h3> Course instructor: Alexander Franks</h3>
   Preferred Pronouns: He, Him, His<br/>
   Major: <br/>
@@ -84,7 +84,7 @@ ready: true
 ## Prof. Frank’s Office Hours
 
     Location: 
-    Time: Tuesdays and Thursdays, 5pm-6:30pm, or by appointment
+    Time: Tuesdays 5pm-6:00pm, or by appointment
 
 ## Prof. K’s Office Hours
 
