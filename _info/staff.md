@@ -75,6 +75,16 @@ ready: true
   problems will be helpful in INT 15 labs! Also ask me anything about Vim :D"</i>
   </td>
 </tr>
+<tr>
+  <td>
+  <img src="/s19/info/mentorPhotos/christian-lloyd.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
+  <h3>Christian Lloyd (Tutor)</h3>
+    Preferred Pronouns: He, Him, His<br/>
+    Major: Computing <br/>
+    Previous experience as a TA/Tutor: I have tutored for CS56 and have held a variety of teaching roles over the last decade ranging from wrestling to mathematics.<br/>
+  <i>"I'm a 4th year undergraduate pursuing a Computing Major and Statistics Minor. Past research includes quantifying and modeling the effect Alzheimer's Disease has on language and examining linguistic resonance for causal relationships. I am pursiong work in the field of data science, so if you have any questions about how language and data work together feel free to send them my way."</i>
+  </td>
+</tr>
 </table>
 
 
