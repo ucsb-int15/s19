@@ -35,11 +35,11 @@ ready: true
 <tr>
   <td>
   <img src="/s19/info/mentorPhotos/FirstName-LastName.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
-  <h3>(TA/Tutor)</h3>
-    Preferred Pronouns: He, Him, His<br/>
-    Major: <br/>
-    Previous experience as a TA/tutor: <br/>
-  <i> "" </i>
+  <h3>Ananya Haravu(Tutor)</h3>
+    Preferred Pronouns: She, Her, Hers<br/>
+    Major: Financial Math and Stat<br/>
+    Previous experience as a TA/tutor: I had an amazing time being a Tutor for INT 5 taught last fall and am looking forward to working with all of you!<br/>
+  <i> "I am a 3rd year undergraduate student and am interested in data ethics/security. I enjoy taking photos and cozying up with a good book. I am available to answer any questions you may have and am excited help in any way I can :)" </i>
   </td>
 </tr>
 </table>
