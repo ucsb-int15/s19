@@ -55,6 +55,8 @@ ready: true
   <i> "I'm a 4th year undergrad statistics major and I've always had good results in my programming classes. My secret has been excessive amounts of Googling and digging through the depths of Stack Exchange, and I hope this translates to me being an effective tutor! Outside of my office hours you'll most definitely catch me at the gym." </i>
   </td>
 </tr>
+<tr>
+  <td>
   <img src="/s19/info/mentorPhotos/eduardo-escoto.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
   <h3>Eduardo Escoto (Tutor)</h3>
     Preferred Pronouns: He, Him, His<br/>
@@ -96,4 +98,4 @@ ready: true
 <style>
 iframe { width: 100%; height: 1100px; overflow: scroll; }  
 </style>
-<iframe src=""></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMVxZ-uGfP8RskJjjVwo4dl5rrWfSEGNMZ1rXVqHbZVi6wTZCI-WGeCDGrkX_DRCvAMAvOe4D12A-Y/pubhtml?gid=1352399231&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
