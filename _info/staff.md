@@ -34,19 +34,6 @@ ready: true
 <table style="width:90%">
 <tr>
   <td>
-  <img src="/s19/info/mentorPhotos/FirstName-LastName.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
-  <h3>(TA/Tutor)</h3>
-    Preferred Pronouns: He, Him, His<br/>
-    Major: <br/>
-    Previous experience as a TA/tutor: <br/>
-  <i> "" </i>
-  </td>
-</tr>
-</table>
-
-<table style="width:90%">
-<tr>
-  <td>
   <img src="/s19/info/mentorPhotos/Daniel-Zeng.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
   <h3>Daniel Zeng (Tutor)</h3>
     Preferred Pronouns: He, Him, His<br/>
@@ -79,7 +66,7 @@ ready: true
 </tr>
 <tr>
   <td>
-  <img src="/s19/info/mentorPhotos/christian-lloyd.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
+  <img src="/s19/info/mentorPhotos/christian_lloyd.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
   <h3>Christian Lloyd (Tutor)</h3>
     Preferred Pronouns: He, Him, His<br/>
     Major: Computing <br/>
@@ -95,7 +82,7 @@ ready: true
 
 ## Prof. Frank’s Office Hours
 
-    Location: 
+    Location: South Hall 5522
     Time: Tuesdays 5pm-6:00pm, or by appointment
 
 ## Prof. K’s Office Hours
@@ -106,6 +93,6 @@ ready: true
 **Open labs**: All open labs will be held in **the Collaboratory** on the 2nd floor of the Library. Open labs will be open for walk-in help: see the schedule below for more information.
 
 <style>
-iframe { width: 100%; height: 1100px; overflow: scroll; }  
+iframe { width: 90%; height: 800px; overflow: scroll; }  
 </style>
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMVxZ-uGfP8RskJjjVwo4dl5rrWfSEGNMZ1rXVqHbZVi6wTZCI-WGeCDGrkX_DRCvAMAvOe4D12A-Y/pubhtml?gid=1352399231&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
