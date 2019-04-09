@@ -12,8 +12,8 @@ ready: true
   <img src="/s19/info/mentorPhotos/franks.png"  width="250px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
   <h3> Course instructor: Alexander Franks</h3>
   Preferred Pronouns: He, Him, His<br/>
-  Major: <br/>
-  <i> "" </i><br/>
+  Major: Statistics<br/>
+  <i> "This is my second year as a proefssor at UCSB and first time teaching INT 15.  I teach many of the data science courses on campus, including PSTAT 115 and PSTAT 131." </i><br/>
   <i>My office hours time and location are shown below."</i><br/>
   </td>
 </tr>
