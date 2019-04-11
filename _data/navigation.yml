@@ -40,6 +40,11 @@ offering_links:
   - title: Lectures
     url: /lec_list/
     description: "Lecture-related information"
+  - title: Open Lab/Office Hours
+    dropdown:
+    url: /info/staff/
+    description: "Staff information + Office Hours / Open Lab Hours"
+
   - title: Links
     dropdown:	 
        - title: Gauchospace
