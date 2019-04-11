@@ -34,11 +34,11 @@ ready: true
 <table style="width:90%">
 <tr>
   <td>
-  <img src="/s19/info/mentorPhotos/FirstName-LastName.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
-  <h3>(TA/Tutor)</h3>
+  <img src="/s19/info/mentorPhotos/Daniel-Fields.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
+  <h3>Tutor Daniel Fields</h3>
     Preferred Pronouns: He, Him, His<br/>
-    Major: <br/>
-    Previous experience as a TA/tutor: <br/>
+    Major: Statistical Sciences<br/>
+    Previous experience as a TA/tutor: I have been a tutor on my own for about 5 years now for mathematics, physics and statistics. Additionally, I worked as tutor for INT 5 this Fall 2018 with Professor K. I have been an officer for the Data Science Club for two years and have used Data Science to solve problems in a start-up, at a local company, and in many hackathons. Looking forward to a grea quarter of learning and exploration into data science! <br/>
   <i> "" </i>
   </td>
 </tr>
