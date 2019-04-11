@@ -34,6 +34,14 @@ ready: true
 <table style="width:90%">
 <tr>
   <td>
+
+  <img src="/s19/info/mentorPhotos/Daniel-Fields.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
+  <h3>Tutor Daniel Fields</h3>
+    Preferred Pronouns: He, Him, His<br/>
+    Major: Statistical Sciences<br/>
+    <i> "Previous experience as a TA/tutor: I have been a tutor on my own for about 5 years now for mathematics, physics and statistics. Additionally, I worked as tutor for INT 5 this Fall 2018 with Professor K. I have been an officer for the Data Science Club for two years and have used Data Science to solve problems in a start-up, at a local company, and in many hackathons. Looking forward to a grea quarter of learning and exploration into data science! " </i><br/>
+  </td>
+</tr>
   <img src="/s19/info/mentorPhotos/Daniel-Zeng.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
   <h3>Daniel Zeng (Tutor)</h3>
     Preferred Pronouns: He, Him, His<br/>
@@ -72,6 +80,7 @@ ready: true
     Major: Computing <br/>
     Previous experience as a TA/Tutor: I have tutored for CS56 and have held a variety of teaching roles over the last decade ranging from wrestling to mathematics.<br/>
   <i>"I'm a 4th year undergraduate pursuing a Computing Major and Statistics Minor. Past research includes quantifying and modeling the effect Alzheimer's Disease has on language and examining linguistic resonance for causal relationships. I am pursiong work in the field of data science, so if you have any questions about how language and data work together feel free to send them my way."</i>
+
   </td>
 </tr>
 </table>
