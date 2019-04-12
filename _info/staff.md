@@ -83,6 +83,17 @@ ready: true
 
   </td>
 </tr>
+<tr>
+  <td>
+  <img src="/s19/info/mentorPhotos/Nikhil-Patil.jpg"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
+  <h3>Nikhil Patil (Tutor)</h3>
+    Preferred Pronouns: He, Him, His<br/>
+    Major: Computer Science <br/>
+    Previous experience as a TA/Tutor: I have tutored for CS48 through CS190J last quarter.
+  <i>"I'm a 4th year undergraduate Computer Science student with a minor in Statistics. I previously did research in the Computational Science lab using R for data analysis to analyze the MIMIC III dataset, which is a popular healthcare data set. I will soon be joining Amazon as a Software Engineer and I hope to pursue data science there as well. Ask me about getting internships and anything else CS related!"</i>
+  </td>
+</tr>
+
 </table>
 
 
