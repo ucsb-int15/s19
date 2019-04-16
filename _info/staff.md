@@ -103,6 +103,17 @@ ready: true
   </td>
 </tr>
 
+<tr>
+  <td>
+  <img src="/s19/info/mentorPhotos/IMG_5921.jpg"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
+  <h3>Maya Samet (Tutor)</h3>
+    Preferred Pronouns: She, Her, Hers<br/>
+    Major: Statistics <br/>
+    Previous experience as a TA/Tutor: I tutored for INT 5 in fall.
+  <i>"I'm a 4th year stats major. I've interned with Sonos as a people analytics intern, and outside of tutoring I help with data analysis at the META Lab in the Psych & Brain Sciences department. I'm pretty interested in behavior data & environmental data, I'm also super into "data for good" as a concept and generally look for ethically fulfilling initiatives to apply my skills to. Ask me about getting those internships & applying your stats skills to research on campus!"</i>
+  </td>
+</tr>
+
 </table>
 
 
