@@ -4,6 +4,27 @@ layout: default
 ready: true
 ---
 
+# INT 15 Office / Open Lab Hours
+
+## Prof. Frank’s Office Hours
+
+    Location: South Hall 5522
+    Time: Tuesdays 5pm-6:00pm, or by appointment
+
+## Prof. K’s Office Hours
+
+    Location: Collaboratory
+    Time: Tues/Thurs 3-4pm
+
+**Open labs**: All open labs will be held in **the Collaboratory** on the 2nd floor of the Library. Open labs will be open for walk-in help: see the schedule below for more information.
+
+<style>
+iframe { width: 90%; height: 800px; overflow: scroll; }  
+</style>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMVxZ-uGfP8RskJjjVwo4dl5rrWfSEGNMZ1rXVqHbZVi6wTZCI-WGeCDGrkX_DRCvAMAvOe4D12A-Y/pubhtml?gid=1352399231&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+
 # Who We Are<a name="staff"></a>
 
 <table style="width:80%">
@@ -14,7 +35,7 @@ ready: true
   Preferred Pronouns: He, Him, His<br/>
   Major: Statistics<br/>
   <i> "This is my second year as a proefssor at UCSB and first time teaching INT 15.  I teach many of the data science courses on campus, including PSTAT 115 and PSTAT 131." </i><br/>
-  <i>My office hours time and location are shown below."</i><br/>
+  <i>My office hours time and location are shown above."</i><br/>
   </td>
 </tr>
 <tr>
@@ -24,7 +45,7 @@ ready: true
   Preferred Pronouns: She, Her, Hers<br/>
   Major: Computer Science :-)<br/>
   <i> "This is my first year at UCSB and my first time teaching INT 15. I taught INT 5 (Data Science 1) in the Fall 2018, and I am looking forward to further exploring the world of Data Science with you." </i><br/>
-  <i>My office hours time and location are shown below."</i><br/>
+  <i>My office hours time and location are shown above."</i><br/>
   </td>
 </tr>
 </table>
@@ -137,25 +158,4 @@ ready: true
 
 </table>
 
-
-
-# INT 15 Office / Open Lab Hours
-
-## Prof. Frank’s Office Hours
-
-    Location: South Hall 5522
-    Time: Tuesdays 5pm-6:00pm, or by appointment
-
-## Prof. K’s Office Hours
-
-    Location: Collaboratory
-    Time: Tues/Thurs 3-4pm
-
-**Open labs**: All open labs will be held in **the Collaboratory** on the 2nd floor of the Library. Open labs will be open for walk-in help: see the schedule below for more information.
-
-<style>
-iframe { width: 90%; height: 800px; overflow: scroll; }  
-</style>
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRMVxZ-uGfP8RskJjjVwo4dl5rrWfSEGNMZ1rXVqHbZVi6wTZCI-WGeCDGrkX_DRCvAMAvOe4D12A-Y/pubhtml?gid=1352399231&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
