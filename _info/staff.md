@@ -34,7 +34,7 @@ ready: true
 <table style="width:90%">
 <tr>
   <td>
-  <img src="/s19/info/mentorPhotos/FirstName-LastName.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
+  <img src="/s19/info/mentorPhotos/AnanyaHaravuPhoto.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
   <h3>Ananya Haravu(Tutor)</h3>
     Preferred Pronouns: She, Her, Hers<br/>
     Major: Financial Math and Stat<br/>
@@ -42,6 +42,8 @@ ready: true
   <i> "I am a 3rd year undergraduate student and am interested in data ethics/security. I enjoy taking photos and cozying up with a good book. I am available to answer any questions you may have and am excited help in any way I can :)" </i>
   </td>
 </tr>
+<tr>
+<td>
   <img src="/s19/info/mentorPhotos/Daniel-Fields.png"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
   <h3>Tutor Daniel Fields</h3>
     Preferred Pronouns: He, Him, His<br/>
@@ -115,7 +117,7 @@ ready: true
 ## Prof. K’s Office Hours
 
     Location: Collaboratory
-    Time: TBD, or by appointment
+    Time: Tues/Thurs 3-4pm
 
 **Open labs**: All open labs will be held in **the Collaboratory** on the 2nd floor of the Library. Open labs will be open for walk-in help: see the schedule below for more information.
 
