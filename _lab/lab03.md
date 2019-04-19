@@ -1,8 +1,8 @@
 ---
 layout: lab
-num: lab02
+num: lab03
 ready: true
-desc: "Lab02"
+desc: "Lab03"
 assigned: 2019-04-19 13:00:00.00-7
 due: 2019-04-24 23:59:00.00-7
 ---
