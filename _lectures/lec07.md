@@ -1,7 +1,7 @@
 ---
 num: "lect07"
 lecture_date: 2019-04-23
-desc: 
+desc: Exploratory Data Analysis and Dimension Reduction
 ready: true
 pdfurl: 
 ---
