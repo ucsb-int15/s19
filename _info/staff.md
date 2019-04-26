@@ -137,16 +137,6 @@ iframe { width: 90%; height: 800px; overflow: scroll; }
 </tr>
 <tr>
   <td>
-  <img src="/s19/info/mentorPhotos/404.gif"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
-  <h3>Maya Samet (Tutor)</h3>
-    Preferred Pronouns: She, Her, Hers<br/>
-    Major: Financial Math and Stat<br/>
-    Previous experience as a tutor: INT 5 <br/>
-  <i> "" </i>
-  </td>
-</tr>
-<tr>
-  <td>
   <img src="/s19/info/mentorPhotos/Nikhil-Patil.jpg"  width="300px"  alt="" style="float: left; margin: 0px 10px 20px 10px;">
   <h3>Nikhil Patil (Tutor)</h3>
     Preferred Pronouns: He, Him, His<br/>
