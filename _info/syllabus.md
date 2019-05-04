@@ -78,7 +78,6 @@ More information will be provided later in the class. Due June 12, 2019.
 ## Late Submission
 Late submissions of labs will not be accepted under any circumstances. The same goes for homework, unless you have relevant DSP accommodations and you contact us before the assignment is due.
 
-In lieu of offering exceptions or extensions, your lowest two homework scores and your lowest lab score will be dropped in the calculation of your overall grade.
 
 ## Learning Cooperatively
 With the obvious exception of exams, we encourage you to discuss all of the course activities with your friends and classmates as you are working on them. You will definitely learn more in this class if you work with others than if you do not. Ask questions, answer questions, and share ideas liberally.
