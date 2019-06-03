@@ -5,4 +5,4 @@ desc: "Supervised Machine Learning: Linear Regression + RANSAC"
 ready: true
 ---
 
-* [Notebook from lecture](https://int15.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https://github.com/ucsb-int15/s19-assignments/blob/master/demo/lec16-plot_ransac.ipynb)
+* [Notebook from lecture](https://int15.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https://github.com/ucsb-int15/s19-assignments&subPath=demo/lec16-plot_ransac.ipynb) (Updated!)
