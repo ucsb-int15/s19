@@ -15,7 +15,7 @@ The guidelines for the project are in the [int15-final-project.ipynb](https://in
 
 ## Datasets
 
-Below is a list of vetted datasets along with a brief description.  We’ve also included some questions that you may want to answer.  You are not required to answer these questions and you are encouraged to propose (and answer!) additional questions.  If you can find additional data related to one of the projects below, you should feel free to use it, **making sure to cite  and link to the source of the data**.  You are not constrained to use only the data provided.
+Below is a list of vetted datasets along with a brief description.  We've also included some questions that you may want to answer.  You are not required to answer these questions and you are encouraged to propose (and answer!) additional questions.  If you can find additional data related to one of the projects below, you should feel free to use it, **making sure to cite  and link to the source of the data**.  You are not constrained to use only the data provided.
 
 If none of the datasets below is of interest and you have your own dataset that you are excited to analyze, please check with Prof. K or Prof. Franks before **Wednesday, June 3** to get approval.
 
@@ -99,9 +99,9 @@ Possible questions:
   + One paragraph that briefly summarizes the problem you addressed, the data, the techniques used, the key results, and conclusions. 
 
 - **Introduction (15 pts)**
- + Clearly introduce the primary goal(s) or question(s) that you project addresses. **(5 pts)**
- + Include a brief literature review (a paragraph with 1-3 references) describing any prior related work. What is the relevant background? **(5 pts)**
- + Briefly describe the dataset you are using to answer your question. You should address why this data is appropriate for answering your question. **(5 pts)**
+  + Clearly introduce the primary goal(s) or question(s) that you project addresses. **(5 pts)**
+  + Include a brief literature review (a paragraph with 1-3 references) describing any prior related work. What is the relevant background? **(5 pts)**
+  + Briefly describe the dataset you are using to answer your question. You should address why this data is appropriate for answering your question. **(5 pts)**
 
 - **Data and Methods (30 pts)**
   + Where did the data come from? What concerns do you have about the data?  Are you using additional data to augment the original that we provided? What are the relevant "principles of measurement"? **(10 pts)**
@@ -115,5 +115,5 @@ Possible questions:
   + What were your primary conclusions and how do your results support these conclusions? 
   + What extensions or future work would you recommend? 
 - **Miscellaneous (10 pts)**
-  + General coherence, clarity, sufficient referencing and overall effort. Include references for any and all resources used for your project: data sources, software tools used, books, journal papers, online resources, etc. **(5 pts)**  _Failure to cite your references can be grounds for an academic dishonesty case._
+  + General coherence, clarity, sufficient referencing and overall effort. Followed all guidelines provided in the starter notebook. Includes references for any and all resources used for the project: data sources, software tools used, books, journal papers, online resources, etc. **(5 pts)**  _Failure to cite your references can be grounds for an academic dishonesty case._
   + Python notebook runs without errors **(5 pts)**.  _More points can be deducted if there is a lack of evidence of sufficient work or if the results presented in the report cannot be reproduced using the notebook._
