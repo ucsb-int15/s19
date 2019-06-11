@@ -3,9 +3,10 @@ num: "final-project"
 desc: "Final Project"
 ready: true
 assigned: 2019-05-31 13:00:00.00-7:00
-due: 2019-06-12 23:59:00.00-7:00
+due: 2019-06-14 23:59:00.00-7:00
 ---
 
+# Update (6/10): Project Deadline has been extended to June 14.
 
 # INT15 Final Project
 
@@ -91,3 +92,28 @@ Possible questions:
   * Berkeley: <https://data.cityofberkeley.info/Public-Safety/Berkeley-PD-UCR-Annual-Part-I-Crimes/efkp-2py4>
   * ...
 
+
+# Final Project Rubric
+
+- **Abstract (5 pts)**
+  + One paragraph that briefly summarizes the problem you addressed, the data, the techniques used, the key results, and conclusions. 
+
+- **Introduction (15 pts)**
+ + Clearly introduce the primary goal(s) or question(s) that you project addresses. **(5 pts)**
+ + Include a brief literature review (a paragraph with 1-3 references) describing any prior related work. What is the relevant background? **(5 pts)**
+ + Briefly describe the dataset you are using to answer your question. You should address why this data is appropriate for answering your question. **(5 pts)**
+
+- **Data and Methods (30 pts)**
+  + Where did the data come from? What concerns do you have about the data?  Are you using additional data to augment the original that we provided? What are the relevant "principles of measurement"? **(10 pts)**
+  + Describe the relevant variables in the dataset. Did you do any preprocessing or transformations on the original variables? Is there missing data, and if so, what values are missing? **(10 pts)**
+  + What methods did you use for your analysis? Why do you think they will help you answer your question(s)? **(10 pts)**
+- **Results (30 pts)**
+  + Visualizations, tables and figures are clear, readable, and appropriate; make a clear point and/or tell a story.  Visualizations have an informative short caption and are also clearly referred to and described in the paper. **(15 pts)**.
+  + Appropriate interpretation of the results (e.g., correct interpretation of PCA, regression, etc).  Results are put into context.  What are the set of conclusions that could be drawn from your results? **(15 pts)**
+- **Discussion (10 pts)**
+  + Did you achieve your goal? If not, why? What were some challenges and lessons you learned from them? 
+  + What were your primary conclusions and how do your results support these conclusions? 
+  + What extensions or future work would you recommend? 
+- **Miscellaneous (10 pts)**
+  + General coherence, clarity, sufficient referencing and overall effort. Include references for any and all resources used for your project: data sources, software tools used, books, journal papers, online resources, etc. **(5 pts)**  _Failure to cite your references can be grounds for an academic dishonesty case._
+  + Python notebook runs without errors **(5 pts)**.  _More points can be deducted if there is a lack of evidence of sufficient work or if the results presented in the report cannot be reproduced using the notebook._
